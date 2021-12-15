@@ -13,7 +13,7 @@ html{
 }
 
 body{
-	background: url("img/background-auth.jpg");
+	background: url("background-auth.jpg");
 	background-attachment: fixed;
 	margin:0;
 	line-height: 1.5;
